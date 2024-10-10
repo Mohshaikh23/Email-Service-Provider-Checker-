@@ -76,7 +76,7 @@ example3.com,Other/Unknown Platform
 
 ## Screenshots
 
-![App Interface](screenshots/app-interface.png)
+![App Interface](ss1.png)
 
 ## Contributing
 
